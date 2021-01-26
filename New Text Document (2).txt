@@ -1,0 +1,96 @@
+<html>
+<head>
+ <title> RESUME </title>
+</head>
+<body>
+<!-- ********************************* Banner ******************************** --> 
+<table border="0" width="100%"><tr bgcolor="lightpink"><td colspan="2" align="center">
+<font color="white"><font size="+5">RESUME
+</td></tr></table>
+
+
+
+<h2><table border="0" width="100%"><tr bgcolor="grey"><td colspan="2" align="left">
+<font color="white"><font size="+2">PERSONAL INFO
+</td></tr></table></h2>
+<p>FullName: <input type="text" size="30"><br>
+<br>E-mail: <input type="email" size="50"><br>
+<br>Phone:<input type="tel" maxlength="10" size="10"><br>
+<br>LinkedIn:<input type="email" size="50"></p>
+
+
+
+<h2><table border="0" width="100%"><tr bgcolor="grey"><td colspan="2" align="left">
+<font color="white"><font size="+2">ACADEMIC DETAILS
+</td></tr></table></h2>
+<table border="1">
+<tr>
+<th>Qualification</th>
+<th>Board/University</th>
+<th>Year</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td><input type="text" size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+</tr> 
+<tr>
+<td><input type="text" size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+</tr> 
+<tr>
+<td><input type="text" size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+</tr> 
+<tr>
+<td><input type="text" size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+<td><input type="text"size="30"></td>
+</tr> 
+</table>
+
+
+
+
+
+<h2><table border="0" width="100%"><tr bgcolor="grey"><td colspan="2" align="left">
+<font color="white"><font size="+2">PROJECT REPORT
+</td></tr></table></h2>
+<p>
+<textarea>Your text</textarea>
+</p>
+
+
+
+
+
+<h2><table border="0" width="100%"><tr bgcolor="grey"><td colspan="2" align="left">
+<font color="white"><font size="+2">IT PROFICIENCY
+</td></tr></table></h2>
+<ul>
+<li><input type"text" size="80"></li>
+<li><input type"text" size="80"></li>
+<li><input type"text" size="80"> </li>
+<li><input type"text" size="80"> </li>
+<li><input type"text" size="80"> </li>
+<li><input type"text" size="80"> </li>
+</ul>
+
+<p style="text-align:center"; >
+<input type="submit" value="submit">
+<input type="reset" value="reset">
+</p>
+
+
+
+
+
+</body>
+</html>
